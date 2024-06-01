@@ -1,0 +1,29 @@
+h1 {
+    font-family: cursive;
+    text-align: center;
+}
+
+p {
+    font-size: 20px;
+    font-family: cursive;
+}
+
+h2 {
+    font-family: cursive;
+}
+
+img {
+    width: 115px;
+    margin-left: 100px;
+}
+
+.gatito {
+    width: 200px;
+
+
+}
+
+span {
+    font-size: 20px;
+    font-family: cursive;
+}
